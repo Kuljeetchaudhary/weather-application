@@ -4,7 +4,7 @@
 
 //const { response } = require("express");
 
-const api_key = "f0c28f446a270afe7ceacea435aa4661";
+const api_key = "YOUR_API_KEY";
 const api_url = "https://api.openweathermap.org/data/2.5/weather?units=metric";
 
 const searchbox = document.querySelector(".search input");
